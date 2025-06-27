@@ -79,4 +79,4 @@ Este projeto está licenciado sob a [MIT License]().<br>
 Copyright :copyright: 2025 - Calcula Idade
 <br><br>
 ### 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/csperansabr/CalculaIdade/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/csperansabr/CalculaIdade/tree/main).
