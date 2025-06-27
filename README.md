@@ -1,7 +1,5 @@
 > Status do Projeto: :heavy_check_mark: (concluido)
 
-https://github.com/csperansabr/CalculaIdade?tab=readme-ov-file#-calculadora-de-idade--c-console-app
-
 ### Tópicos 
 :small_blue_diamond: [Descrição do projeto](#-calculadora-de-idade--c-console-app)<br>
 :small_blue_diamond: [Funcionalidades](#-funcionalidades-do-projeto)<br>
