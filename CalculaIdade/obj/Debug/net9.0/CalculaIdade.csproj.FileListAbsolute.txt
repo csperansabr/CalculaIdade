@@ -1,0 +1,14 @@
+C:\Temp\Alura\CalculaIdade\CalculaIdade\bin\Debug\net9.0\CalculaIdade.exe
+C:\Temp\Alura\CalculaIdade\CalculaIdade\bin\Debug\net9.0\CalculaIdade.deps.json
+C:\Temp\Alura\CalculaIdade\CalculaIdade\bin\Debug\net9.0\CalculaIdade.runtimeconfig.json
+C:\Temp\Alura\CalculaIdade\CalculaIdade\bin\Debug\net9.0\CalculaIdade.dll
+C:\Temp\Alura\CalculaIdade\CalculaIdade\bin\Debug\net9.0\CalculaIdade.pdb
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.AssemblyInfoInputs.cache
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.AssemblyInfo.cs
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.csproj.CoreCompileInputs.cache
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.dll
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\refint\CalculaIdade.dll
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.pdb
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\CalculaIdade.genruntimeconfig.cache
+C:\Temp\Alura\CalculaIdade\CalculaIdade\obj\Debug\net9.0\ref\CalculaIdade.dll
